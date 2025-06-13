@@ -1,8 +1,3 @@
-# 💫 About Me  
-Hi there! I'm a **Full-Stack Web Developer** with a focus on crafting fast, responsive, and interactive web apps. I love building real-world projects with clean architecture and reusable components. My current focus is on building full-stack products with **React**, **Next.js**, **Node.js**, and **MongoDB**, and exploring modern backend-as-a-service platforms like **Appwrite** and **Firebase**.
-
----
-
 # 🚀 Tech Stack
 
 ### 💻 Frontend
